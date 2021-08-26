@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rzkyaprl
-- 👀 I’m interested in Mobile devloper espicially flutter
+- 👀 I’m interested in Mobile developer espicially flutter
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me rizky.apriliandi01@gmail.com
 
